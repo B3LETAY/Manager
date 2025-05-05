@@ -1,6 +1,7 @@
 {
   "name": "passwordManager",
   "version": "1.0",
+  "title": "Управление паролями",
   "description": "Приложение для хранения ваших паролей",
   "entry": "passwordManager.exe",
   "download": "https://github.com/B3LETAY/passwordManager/releases/download/v1.0/passwordManager.zip",
