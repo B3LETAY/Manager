@@ -4,6 +4,6 @@
   "title": "Управление паролями",
   "description": "Приложение для хранения ваших паролей",
   "entry": "Manager.exe",
-  "download": "https://github.com/B3LETAY/passwordManager/releases/download/v1.0/passwordManager.zip",
+  "download": "https://github.com/B3LETAY/passwordManager/releases/download/v1.0/Manager.zip",
   "icon": "icon.ico"
 }
